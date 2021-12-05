@@ -1,4 +1,4 @@
-public class ex_for_약수 {
+public class Ex_for_약수 {
 
 	public static void main(String[] args) {
 		
